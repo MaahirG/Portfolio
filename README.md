@@ -3,8 +3,7 @@
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
-#### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-## Scroll down for Project 2!
+## [Click me for the code repo](https://github.com/MaahirG/SmartCar) or Scroll down for Project 2!
 ### Behind the scenes & Progression
 * Python & C++
 * Physical car built + wired
