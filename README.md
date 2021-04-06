@@ -10,9 +10,8 @@
 * Local planning module (pink line)
 * Environment modeling module (main focus of demo) 
 * Mock perception data publisher (Carla Simulation)
-* Simulation(rviz)
-* & moreee :)
-* Private Github repo :(
+* Simulation(rviz) & more! :)
+* Unfortunately private Github repo
 
 # Project 2: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
