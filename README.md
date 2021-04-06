@@ -42,6 +42,7 @@
 * Realtime movement in the occupancy map: arrow keys to actual car movements
 * Built out spline generation for smooth path planning
 * Implemented realtime route change based on obstacles
+* Implemented multiprocessing for path planning and camera streaming separation and concurrency
 * Made the occupancy map prettier
 * tested
 * debugged
