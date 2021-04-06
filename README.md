@@ -4,7 +4,7 @@
 <img src='./AutonomousMiniCar.gif'>
 
 #### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-### Scroll down for next Project 2!
+## Scroll down for Project 2!
 ### Behind the scenes & Progression
 * Python & C++
 * Physical car built + wired
