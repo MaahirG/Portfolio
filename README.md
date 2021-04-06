@@ -1,9 +1,10 @@
 # Project Showcase
 ## Project 1: Path Planning + Environment Modeling Demo for a Chevy Bolt EV
-### A small snippet of my code contribution towards autonomous driving on real roads. Built a simulation to demo my algorithm.
+### Small snippet of my code contribution towards autonomous driving on real roads.
 <img src='./AutonomousPathPlanning.gif'>
 ### Some behind the scenes
-* Dijkstra search + iterative max depth BFS
+
+* Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs RoutingGraph
 * Entire AV software stack chugging away (ROS + Docker)
 * Local planning module (pink line)
 * Environment modeling module (main focus of demo) 
