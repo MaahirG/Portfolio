@@ -1,5 +1,5 @@
 # Project Portfolio
-# Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
+## Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
 ### Small snippet of my code contribution towards autonomous driving on real roads.
 <img src='./AutonomousPathPlanning.gif'>
 
@@ -13,7 +13,7 @@
 * Simulation(rviz) & more! :)
 * Unfortunately private Github repo
 
-# Project 2: Software stack from scratch for my autonomous mini car
+## Project 2: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
