@@ -1,3 +1,4 @@
+# Project Portfolio
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
@@ -34,7 +35,6 @@
 
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-# Project Portfolio
 ## Project 2: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
 ### One aspect of my code contribution towards autonomous driving on real roads.
 <p float="left">
