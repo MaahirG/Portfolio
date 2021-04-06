@@ -1,6 +1,11 @@
 # Project Portfolio
 ## Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
 ### Small snippet of my code contribution towards autonomous driving on real roads.
+<p float="left">
+  <img src='./AutonomousPathPlanning.gif'>
+  <img src='./WatoBolt.PNG' width='400'>
+</p>
+
 <img src='./AutonomousPathPlanning.gif'>
 <img src='./WatoBolt.PNG' width='200'>
 
