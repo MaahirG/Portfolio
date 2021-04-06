@@ -32,6 +32,7 @@
 * Packages, environment setup PAIN, Linux
 * Built out an obstacle detection pipeline with the RPi camera
 * Pipeline too choppy, so used TensorRT for ~20fps
+* Switched from following car with a cord plugged into the wall to a LiPo battery
 * Started playing with occupancy maps + visualizations
 * Brainstormed and banged head to make the occupancy grid work properly
 * Motor interfacing difficulties
