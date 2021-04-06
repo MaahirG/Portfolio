@@ -1,23 +1,4 @@
-# Project Portfolio
-## Project 1: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
-### One aspect of my code contribution towards autonomous driving on real roads.
-<p float="left">
-  <img src='./AutonomousPathPlanning.gif' width='500', height='350'>
-  <img src='./AutoWatoBolt.PNG' width='500', height='350'>
-</p>
-
-### Behind the scenes
-* C++
-* Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs RoutingGraph
-* SWE Fundamentals - big codebase - CI
-* Entire AV software stack chugging away (ROS + Docker)
-* Local planning module (pink line)
-* Environment modeling module (main focus of demo) 
-* Mock perception data publisher (Carla Simulation)
-* Simulation(rviz) & more! :)
-* Unfortunately private Github repo
-
-## Project 2: Software stack from scratch for my autonomous mini car
+## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
@@ -51,3 +32,22 @@
 * Must've missed a few things! :)
 
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
+
+# Project Portfolio
+## Project 1: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
+### One aspect of my code contribution towards autonomous driving on real roads.
+<p float="left">
+  <img src='./AutonomousPathPlanning.gif' width='500', height='350'>
+  <img src='./AutoWatoBolt.PNG' width='500', height='350'>
+</p>
+
+### Behind the scenes
+* C++
+* Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs RoutingGraph
+* SWE Fundamentals - big codebase - CI
+* Entire AV software stack chugging away (ROS + Docker)
+* Local planning module (pink line)
+* Environment modeling module (main focus of demo) 
+* Mock perception data publisher (Carla Simulation)
+* Simulation(rviz) & more! :)
+* Unfortunately private Github repo
