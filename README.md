@@ -1,4 +1,5 @@
-# Project Portfolio
+# Project Portfolio 
+#### [Or click here for my Github homepage to browse on your own 😊](https://github.com/MaahirG)
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
