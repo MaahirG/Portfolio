@@ -3,11 +3,8 @@
 ### Small snippet of my code contribution towards autonomous driving on real roads.
 <p float="left">
   <img src='./AutonomousPathPlanning.gif' width='550'>
-  <img src='./WatoBolt.PNG' width='400', height='300'>
+  <img src='./WatoBolt.PNG' width='500', height='400'>
 </p>
-
-<img src='./AutonomousPathPlanning.gif'>
-<img src='./WatoBolt.PNG' width='200'>
 
 ### Behind the scenes
 * Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs RoutingGraph
