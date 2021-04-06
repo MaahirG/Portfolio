@@ -1,6 +1,6 @@
 # Project Portfolio
 ## Project 1: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
-### Small snippet of my code contribution towards autonomous driving on real roads.
+### Small snippet of my code contribution towards autonomous driving on real roads in simulation.
 <p float="left">
   <img src='./AutonomousPathPlanning.gif' width='500', height='350'>
   <img src='./AutoWatoBolt.PNG' width='500', height='350'>
