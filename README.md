@@ -14,4 +14,9 @@
 * & moreee :)
 * Private Github repo :(
 
+## Project 2: Software stack from scratch for my mini car
+### [Code Link](https://github.com/MaahirG/SmartCar "Google's Homepage")
+### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
+
+### Behind the scenes
