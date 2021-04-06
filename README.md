@@ -2,8 +2,8 @@
 ## Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
 ### Small snippet of my code contribution towards autonomous driving on real roads.
 <p float="left">
-  <img src='./AutonomousPathPlanning.gif' width='525', height='350'>
-  <img src='./AutoWatoBolt.PNG' width='500', height='350'>
+  <img src='./AutonomousPathPlanning.gif' width='510', height='350'>
+  <img src='./AutoWatoBolt.PNG' width='490', height='350'>
 </p>
 
 ### Behind the scenes
