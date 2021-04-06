@@ -1,5 +1,5 @@
 # Project Portfolio
-## Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
+# Project 1: Path Planning + Environment Modeling for a Chevy Bolt EV
 ### Small snippet of my code contribution towards autonomous driving on real roads.
 <img src='./AutonomousPathPlanning.gif'>
 
@@ -14,9 +14,19 @@
 * & moreee :)
 * Private Github repo :(
 
-## Project 2: Software stack from scratch for my autonomous mini car
+# Project 2: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
 [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-### Behind the scenes
+### Behind the scenes & Progression
+* Physical car built + wired
+* Controlled it with an analog joystick + arduino over the internet
+* Linux + interfaced a camera + built out a ROS network for video streaming
+* Controlled the car from my laptop over the internet with a PS3 controller
+* Upgraded from a RPi to a Jetson Nano
+* Built out an obstacle detection pipeline with the RPi camera
+* 
+
+
+I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
