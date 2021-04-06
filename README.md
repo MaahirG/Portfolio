@@ -45,6 +45,7 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 ### Behind the scenes
 * C++
 * Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
+* Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
 * SWE Fundamentals - big codebase - CI
 * Entire AV software stack chugging away (ROS + Docker)
 * Local planning module (pink line)
