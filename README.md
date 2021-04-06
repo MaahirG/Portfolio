@@ -18,5 +18,5 @@
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
-[Code Link](https://github.com/MaahirG/SmartCar)
+[Click me for the code repo](https://github.com/MaahirG/SmartCar)
 ### Behind the scenes
