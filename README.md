@@ -47,10 +47,10 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 #### Behind the scenes
 
 - [x] Research papers
-- [x] Learning about different model types and DL models/architectures
+- [x] Learning about different DL model architectures
 - [x] Built tool for data ingestion and DL related tasks
 - [x] Model implementation in PyTorch
-- [x] Model train,test,eval,tune etc (lifecycle)
+- [x] Model train, test, eval, tune etc (lifecycle)
 - [x] Built application backend
 - [x] Modularized and made scalable
 - [x] Compatibility with front end webapp
