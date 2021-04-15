@@ -41,19 +41,19 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
 </p>
+
 #### Behind the scenes
 
 - [x] Research papers
 - [x] Learning about different model types and DL models/architectures
 - [x] Built tool for data ingestion and ML related tasks
-- [x] Implementation in PyTorch
-- [x] Full ML model specific lifecycle
+- [x] Model implementation in PyTorch
+- [x] ML model train,test,eval,tune etc (lifecycle)
 - [x] Built application backend
-- [x] Compatibility with front end webapp
 - [x] Modularized and made scalable
+- [x] Compatibility with front end webapp
 - [x] Learnt fundamentals of ML deployment
 - [x] Preparing for ML deployment
-
 
 ## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
