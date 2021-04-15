@@ -36,7 +36,7 @@
 - [x] Must've missed a few things! :)
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: Machine Learning Application, Backend Workflow (Intern impact)
+## Project 2: Machine Learning Application, Backend Workflow (Machine Learning + SWE Intern)
 ### Codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
 #### Private code repo + censored flowchart
 
