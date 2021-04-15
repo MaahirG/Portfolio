@@ -43,7 +43,7 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 ### One part of my code contribution towards autonomous driving on real roads.
 <p float="left">
   <img src='./AutonomousPathPlanning.gif' width='50%'>
-  <img src='./AutoWatoBolt.PNG' width='45%'>
+  <img src='./AutoWatoBolt.PNG' width='45%' height='150%'>
 </p>
 
 ### Behind the scenes
