@@ -11,13 +11,13 @@
 
 #### Behind the scenes
 
-###### ☑️ Python & C++
-###### ☑️ Physical car built + wired
-###### ☑️ Controlled it with an analog joystick + arduino over the internet
-###### ☑️ Linux + interfaced a camera + built out a ROS network for video streaming
-###### ☑️ Controlled the car from my laptop over the internet with a PS3 controller
-###### ☑️ Upgraded from a RPi to a Jetson Nano
-###### ☑️ Packages, environment setup PAIN, Linux
+- [x] Python & C++
+- [x] Physical car built + wired
+- [x] Controlled it with an analog joystick + arduino over the internet
+- [x] Linux + interfaced a camera + built out a ROS network for video streaming
+- [x] Controlled the car from my laptop over the internet with a PS3 controller
+- [x] Upgraded from a RPi to a Jetson Nano
+- [x] Packages, environment setup PAIN, Linux
 - [x] Built out an obstacle detection pipeline with the RPi camera
 - [x] Pipeline too choppy, so used TensorRT for ~20fps
 - [x] Switched from following car with a cord plugged into the wall to a LiPo battery
@@ -37,10 +37,8 @@
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
 ## Project 2: Machine Learning Application, Backend Workflow (Machine Learning + SWE Intern)
-##### As an intern, I was hands on with the entire ML lifecycle: 
-##### From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable with a webapp and starting with AI deployment and MLOps.
-#### Below is the censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
-#### Private code repo.
+##### As an intern, I was hands on with the entire ML lifecycle: From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable with a webapp and starting with AI deployment and MLOps.
+#### Below is the censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry. (Private code repo)
 
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
