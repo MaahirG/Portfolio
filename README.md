@@ -10,17 +10,27 @@
 
 ### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 ### Behind the scenes & Progression or Scroll down for Project 2!
-* Python & C++
-* Physical car built + wired, controlled it with an analog joystick + arduino over the internet
-* Linux + interfaced a camera + built out a ROS network for video streaming, controlled the car from my laptop over the internet with a PS3 controller
-* Upgraded from a RPi to a Jetson Nano --> packages, environment setup PAIN, Linux
-* Built out an obstacle detection pipeline with the RPi camera, pipeline too choppy, so used TensorRT for ~20fps
+Python & C++
+* Physical car built + wired
+* Controlled it with an analog joystick + arduino over the internet
+* Linux + interfaced a camera + built out a ROS network for video streaming
+* Controlled the car from my laptop over the internet with a PS3 controller
+* Upgraded from a RPi to a Jetson Nano
+* Packages, environment setup PAIN, Linux
+* Built out an obstacle detection pipeline with the RPi camera
+* Pipeline too choppy, so used TensorRT for ~20fps
 * Switched from following car with a cord plugged into the wall to a LiPo battery
-* Started playing with occupancy maps + visualizations, brainstormed and banged head to make the occupancy grid work properly, A* route planning within the occupancy map
-* Motor interfacing difficulties, SD card not booting up, new OS and dev environment from scratch (ty Github) but PAIN.
-* Mapped real world obstacles into the occupancy map frame, realtime movement in the occupancy map: arrow keys to actual car movements
-* Built out spline generation for smooth path planning, implemented realtime route change based on obstacles
-* Implemented multiprocessing for path planning and camera streaming separation and concurrency and made the occupancy map prettier
+* Started playing with occupancy maps + visualizations
+* Brainstormed and banged head to make the occupancy grid work properly
+* Motor interfacing difficulties
+* A* route planning within the occupancy map
+* SD card not booting up, new OS and dev environment from scratch (ty Github) but PAIN.
+* Mapped real world obstacles into the occupancy map frame
+* Realtime movement in the occupancy map: arrow keys to actual car movements
+* Built out spline generation for smooth path planning
+* Implemented realtime route change based on obstacles
+* Implemented multiprocessing for path planning and camera streaming separation and concurrency
+* Made the occupancy map prettier
 * tested, debugged, tested x7, debugged x4
 * Must've missed a few things! :)
 
