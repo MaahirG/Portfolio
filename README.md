@@ -4,8 +4,11 @@
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
+
 ### Scroll down for Project 2!
+
 ### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
+
 #### Behind the scenes
 
 - [x] Python & C++
