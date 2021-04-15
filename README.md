@@ -1,6 +1,8 @@
 # Project Portfolio 
 #### [You can also click here for my Github homepage to browse outside the portfolio 😊](https://github.com/MaahirG)
-<img src='./MLAppBackend.png' width='470', height='350'>
+<p float="left">
+  <img src='./MLAppBackend.png' width=70%>
+</p>
 
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
@@ -40,8 +42,8 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 ## Project 2: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
 ### One part of my code contribution towards autonomous driving on real roads.
 <p float="left">
-  <img src='./AutonomousPathPlanning.gif' width='470', height='350'>
-  <img src='./AutoWatoBolt.PNG' width='470', height='350'>
+  <img src='./AutonomousPathPlanning.gif'width='50%>
+  <img src='./AutoWatoBolt.PNG' width='45%'>
 </p>
 
 ### Behind the scenes
