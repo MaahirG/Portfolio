@@ -37,7 +37,7 @@
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
 ## Project 2: Machine Learning Application, Backend Workflow (Machine Learning + SWE Intern)
-##### As an intern, I was hands on with the entire ML lifecycle: From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable with a webapp and starting with AI deployment and MLOps.
+#### As an intern, I was hands on with the entire ML lifecycle: From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
 #### Below is the censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry. (Private code repo)
 
 <p float="left">
@@ -48,14 +48,15 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 
 - [x] Research papers
 - [x] Learning about different model types and DL models/architectures
-- [x] Built tool for data ingestion and ML related tasks
+- [x] Built tool for data ingestion and DL related tasks
 - [x] Model implementation in PyTorch
-- [x] ML model train,test,eval,tune etc (lifecycle)
+- [x] Model train,test,eval,tune etc (lifecycle)
 - [x] Built application backend
 - [x] Modularized and made scalable
 - [x] Compatibility with front end webapp
 - [x] Learnt fundamentals of ML deployment
 - [x] Preparing for ML deployment
+- [x] Weekly presentations and occasional reports
 
 ## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
