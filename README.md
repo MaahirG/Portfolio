@@ -42,7 +42,7 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 ## Project 2: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
 ### One part of my code contribution towards autonomous driving on real roads.
 <p float="left">
-  <img src='./AutonomousPathPlanning.gif'width='50%>
+  <img src='./AutonomousPathPlanning.gif' width='50%'>
   <img src='./AutoWatoBolt.PNG' width='45%'>
 </p>
 
