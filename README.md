@@ -33,14 +33,14 @@
 
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: Machine Learning Application Backend - Censored Version
-### Codebase design for an auto-annotating mass spectrometry scientist aid.
+## Project 2: Machine Learning Application, Backend Workflow - Private code repo
+### Codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
 </p>
 
-## Project 3: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
-### One part of my code contribution towards autonomous driving on real roads.
+## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
+### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 <p float="left">
   <img src='./AutonomousPathPlanning.gif' width='54%' height='320'>
   <img src='./AutoWatoBolt.PNG' width='45%' height='320'>
