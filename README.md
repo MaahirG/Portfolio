@@ -5,9 +5,9 @@
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
-### Scroll down for Project 2!
+### Keep scrolling for more projects!
 
-### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
+#### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 
 #### Behind the scenes
 
@@ -36,8 +36,10 @@
 - [x] Must've missed a few things! :)
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: Machine Learning Application, Backend Workflow - Private code repo + censored flowchart.
+## Project 2: Machine Learning Application, Backend Workflow (Intern impact)
 ### Codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
+#### Private code repo + censored flowchart
+
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
 </p>
