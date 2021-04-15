@@ -4,33 +4,32 @@
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
-
+### Scroll down for Project 2!
 ### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-### Behind the scenes & Progression or Scroll down for Project 2!
-* Python & C++
-* Physical car built + wired
-* Controlled it with an analog joystick + arduino over the internet
-* Linux + interfaced a camera + built out a ROS network for video streaming
-* Controlled the car from my laptop over the internet with a PS3 controller
-* Upgraded from a RPi to a Jetson Nano
-* Packages, environment setup PAIN, Linux
-* Built out an obstacle detection pipeline with the RPi camera
-* Pipeline too choppy, so used TensorRT for ~20fps
-* Switched from following car with a cord plugged into the wall to a LiPo battery
-* Started playing with occupancy maps + visualizations
-* Brainstormed and banged head to make the occupancy grid work properly
-* Motor interfacing difficulties
-* A* route planning within the occupancy map
-* SD card not booting up, new OS and dev environment from scratch (ty Github) but PAIN.
-* Mapped real world obstacles into the occupancy map frame
-* Realtime movement in the occupancy map: arrow keys to actual car movements
-* Built out spline generation for smooth path planning
-* Implemented realtime route change based on obstacles
-* Implemented multiprocessing for path planning and camera streaming separation and concurrency
-* Made the occupancy map prettier
-* tested, debugged, tested x7, debugged x4
-* Must've missed a few things! :)
-
+#### Behind the scenes & Progression
+- [x] Python & C++
+- [x] Physical car built + wired
+- [x] Controlled it with an analog joystick + arduino over the internet
+- [x] Linux + interfaced a camera + built out a ROS network for video streaming
+- [x] Controlled the car from my laptop over the internet with a PS3 controller
+- [x] Upgraded from a RPi to a Jetson Nano
+- [x] Packages, environment setup PAIN, Linux
+- [x] Built out an obstacle detection pipeline with the RPi camera
+- [x] Pipeline too choppy, so used TensorRT for ~20fps
+- [x] Switched from following car with a cord plugged into the wall to a LiPo battery
+- [x] Started playing with occupancy maps + visualizations
+- [x] Brainstormed and banged head to make the occupancy grid work properly
+- [x] Motor interfacing difficulties
+- [x] A* route planning within the occupancy map
+- [x] SD card not booting up, new OS and dev environment from scratch (ty Github) but PAIN.
+- [x] Mapped real world obstacles into the occupancy map frame
+- [x] Realtime movement in the occupancy map: arrow keys to actual car movements
+- [x] Built out spline generation for smooth path planning
+- [x] Implemented realtime route change based on obstacles
+- [x] Implemented multiprocessing for path planning and camera streaming separation and concurrency
+- [x] Made the occupancy map prettier
+- [x] tested, debugged, tested x7, debugged x4
+- [x] Must've missed a few things! :)
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
 ## Project 2: Machine Learning Application, Backend Workflow - Private code repo + censored flowchart.
@@ -38,6 +37,18 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
 </p>
+#### Behind the scenes
+- [x] Research papers
+- [x] Learning about different model types and DL models/architectures
+- [x] Built tool for data ingestion and ML related tasks
+- [x] Implementation in PyTorch
+- [x] Full ML model specific lifecycle
+- [x] Built application backend
+- [x] Compatibility with front end webapp
+- [x] Modularized and made scalable
+- [x] Learnt fundamentals of ML deployment
+- [x] Preparing for ML deployment
+
 
 ## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
@@ -46,14 +57,14 @@ I seriously thank you for reading through that, the journey becomes 1000x better
   <img src='./AutoWatoBolt.PNG' width='45%' height='320'>
 </p>
 
-### Behind the scenes
-* C++
-* Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
-* Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
-* SWE Fundamentals - big codebase - CI
-* Entire AV software stack chugging away (ROS + Docker)
-* Local planning module (pink line)
-* Environment modeling module (main focus of demo) 
-* Mock perception data publisher (Carla Simulation)
-* Simulation(rviz) & more! :)
-* Unfortunately private Github repo
+#### Behind the scenes
+- [x] C++
+- [x] Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
+- [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
+- [x] SWE Fundamentals - big codebase - CI
+- [x] Entire AV software stack chugging away (ROS + Docker)
+- [x] Local planning module (pink line)
+- [x] Environment modeling module (main focus of demo) 
+- [x] Mock perception data publisher (Carla Simulation)
+- [x] Simulation(rviz) & more! :)
+- [x] Unfortunately private Github repo
