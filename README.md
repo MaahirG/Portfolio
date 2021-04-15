@@ -33,7 +33,7 @@
 
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: Machine Learning Application, Backend Workflow - Private code repo
+## Project 2: Machine Learning Application, Backend Workflow - Private code repo + censored flowchart.
 ### Codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
