@@ -6,7 +6,8 @@
 <img src='./AutonomousMiniCar.gif'>
 ### Scroll down for Project 2!
 ### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-#### Behind the scenes & Progression
+#### Behind the scenes
+
 - [x] Python & C++
 - [x] Physical car built + wired
 - [x] Controlled it with an analog joystick + arduino over the internet
@@ -38,6 +39,7 @@ I seriously thank you for reading through that, the journey becomes 1000x better
   <img src='./MLAppBackend.png' width=70%>
 </p>
 #### Behind the scenes
+
 - [x] Research papers
 - [x] Learning about different model types and DL models/architectures
 - [x] Built tool for data ingestion and ML related tasks
