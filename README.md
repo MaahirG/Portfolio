@@ -1,8 +1,5 @@
 # Project Portfolio 
 #### [You can also click here for my Github homepage to browse outside the portfolio 😊](https://github.com/MaahirG)
-<p float="left">
-  <img src='./MLAppBackend.png' width=70%>
-</p>
 
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
@@ -10,7 +7,7 @@
 
 ### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 ### Behind the scenes & Progression or Scroll down for Project 2!
-Python & C++
+* Python & C++
 * Physical car built + wired
 * Controlled it with an analog joystick + arduino over the internet
 * Linux + interfaced a camera + built out a ROS network for video streaming
@@ -36,7 +33,13 @@ Python & C++
 
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
+## Project 2: Machine Learning Application Backend - Censored Version
+### Codebase design for an auto-annotating mass spectrometry scientist aid.
+<p float="left">
+  <img src='./MLAppBackend.png' width=70%>
+</p>
+
+## Project 3: High Lvl Software - Path Planning + Environment Modeling for a Chevy Bolt EV
 ### One part of my code contribution towards autonomous driving on real roads.
 <p float="left">
   <img src='./AutonomousPathPlanning.gif' width='54%' height='320'>
