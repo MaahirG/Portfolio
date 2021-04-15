@@ -38,7 +38,7 @@ I seriously thank you for reading through that, the journey becomes 1000x better
 
 ## Project 2: Machine Learning Application, Backend Workflow (Machine Learning + SWE Intern)
 ### Codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry.
-#### Private code repo + censored flowchart
+#### Private code repo, but here is my censored flowchart:
 
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
