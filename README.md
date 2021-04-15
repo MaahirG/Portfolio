@@ -1,5 +1,7 @@
 # Project Portfolio 
 #### [You can also click here for my Github homepage to browse outside the portfolio 😊](https://github.com/MaahirG)
+<img src='./MLAppBackend.png' width='470', height='350'>
+
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
