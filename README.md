@@ -9,11 +9,10 @@
 
 #### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 
-- [x] Python & C++
 - [x] Physical car built + wired
 - [x] Controlled by analog joystick 
 - [x] Arduino control over the internet
-- [ ] 
+
 <details>
 <summary> Behind the Scenes + Progression </summary>
   
