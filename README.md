@@ -36,7 +36,7 @@
 - [x] Must've missed a few things! :)
 I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
 
-## Project 2: Machine Learning Application, Backend Workflow (Machine Learning + SWE Intern)
+## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
 #### As an intern, I was hands on with the entire ML lifecycle: From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
 #### Below is the censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry. (Private code repo)
 
