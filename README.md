@@ -13,8 +13,10 @@
 - [x] Physical car built + wired
 - [x] Controlled by analog joystick 
 - [x] Arduino control over the internet
+- [ ] 
 <details>
 <summary> Behind the Scenes + Progression </summary>
+  
 - [x] Linux + interfaced camera + built out a ROS network for video streaming
 - [x] Controlled the car from my laptop with a PS3 controller OTA
 - [x] Upgraded from a RPi to a Jetson Nano
