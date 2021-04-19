@@ -9,12 +9,12 @@
 
 #### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 
-#### Behind the scenes
-
 - [x] Python & C++
 - [x] Physical car built + wired
 - [x] Controlled by analog joystick 
-- [x] Arduino control over the internet (OTA)
+- [x] Arduino control over the internet
+<details>
+<summary> Behind the Scenes + Progression </summary>
 - [x] Linux + interfaced camera + built out a ROS network for video streaming
 - [x] Controlled the car from my laptop with a PS3 controller OTA
 - [x] Upgraded from a RPi to a Jetson Nano
@@ -36,6 +36,7 @@
 - [x] tested, debugged, tested x7, debugged x4
 - [x] Must've missed a few things! :)
 Thank you for reading! The journey becomes 1000x better when somebody else walks through it too!
+</details>
 
 ## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
 #### Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
