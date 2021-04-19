@@ -11,9 +11,7 @@
 - [x] Controlled by analog joystick 
 - [x] Arduino control over the internet
 - [x] Linux + interfaced camera + built out a ROS network for video streaming
-
 <details>
-  
 <summary> Click for entire progression! </summary>
   
 - [x] Controlled the car from my laptop with a PS3 controller OTA
