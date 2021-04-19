@@ -5,8 +5,6 @@
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
-### Keep scrolling for more projects!
-
 #### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
 
 - [x] Physical car built + wired
@@ -15,6 +13,7 @@
 - [x] Linux + interfaced camera + built out a ROS network for video streaming
 
 <details>
+  
 <summary> Click for entire progression! </summary>
   
 - [x] Controlled the car from my laptop with a PS3 controller OTA
