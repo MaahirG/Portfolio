@@ -13,32 +13,34 @@
 
 - [x] Python & C++
 - [x] Physical car built + wired
-- [x] Controlled it with an analog joystick + arduino over the internet
-- [x] Linux + interfaced a camera + built out a ROS network for video streaming
-- [x] Controlled the car from my laptop over the internet with a PS3 controller
+- [x] Controlled by analog joystick 
+- [x] Arduino control over the internet (OTA)
+- [x] Linux + interfaced camera + built out a ROS network for video streaming
+- [x] Controlled the car from my laptop with a PS3 controller OTA
 - [x] Upgraded from a RPi to a Jetson Nano
 - [x] Packages, environment setup PAIN, Linux
-- [x] Built out an obstacle detection pipeline with the RPi camera
-- [x] Pipeline too choppy, so used TensorRT for ~20fps
+- [x] Built out an obstacle detection pipeline with RPi camera
+- [x] Pipeline too choppy, used TensorRT for ~20fps
 - [x] Switched from following car with a cord plugged into the wall to a LiPo battery
 - [x] Started playing with occupancy maps + visualizations
 - [x] Brainstormed and banged head to make the occupancy grid work properly
 - [x] Motor interfacing difficulties
 - [x] A* route planning within the occupancy map
-- [x] SD card not booting up, new OS and dev environment from scratch (ty Github) but PAIN.
+- [x] SD card not booting up, new OS and dev environment from scratch, PAIN.
 - [x] Mapped real world obstacles into the occupancy map frame
 - [x] Realtime movement in the occupancy map: arrow keys to actual car movements
 - [x] Built out spline generation for smooth path planning
-- [x] Implemented realtime route change based on obstacles
-- [x] Implemented multiprocessing for path planning and camera streaming separation and concurrency
-- [x] Made the occupancy map prettier
+- [x] Realtime route change based on obstacles
+- [x] Multiprocessing for path planning + camera streaming concurrency
+- [x] Made occupancy map prettier
 - [x] tested, debugged, tested x7, debugged x4
 - [x] Must've missed a few things! :)
-I seriously thank you for reading through that, the journey becomes 1000x better when somebody else takes the time to walk through it too!
+Thank you for reading! The journey becomes 1000x better when somebody else walks through it too!
 
 ## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
-#### As an intern, I was hands on with the entire ML lifecycle: From research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
-#### Below is the censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry. (Private code repo)
+#### Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
+
+#### Censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry (private code repo):
 
 <p float="left">
   <img src='./MLAppBackend.png' width=70%>
