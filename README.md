@@ -2,8 +2,10 @@
 #### [You can also click here for my Github homepage to browse outside the portfolio 😊](https://github.com/MaahirG)
 
 ## Project 1: Software stack from scratch for my autonomous mini car
-### Project demo showing various software modules coming together for my autonomous mini car.
+### Demo showing various software modules coming together for autonomous driving.
 <img src='./AutonomousMiniCar.gif'>
+
+#### Behind the scenes
 
 - [x] Physical car built + wired
 - [x] Controlled by analog joystick 
@@ -38,8 +40,8 @@ Thank you for reading! The journey becomes 1000x better when somebody else walks
 
 <br>
 
-## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
-#### Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
+## Project 2: Machine Learning Application, Backend Workflow (ML+SWE INTERN)
+Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
 
 #### Censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry (private code repo):
 
