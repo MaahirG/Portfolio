@@ -5,8 +5,6 @@
 ### Project demo showing various software modules coming together for my autonomous mini car.
 <img src='./AutonomousMiniCar.gif'>
 
-#### [Click me for the code repo](https://github.com/MaahirG/SmartCar)
-
 - [x] Physical car built + wired
 - [x] Controlled by analog joystick 
 - [x] Arduino control over the internet
@@ -36,6 +34,10 @@
 Thank you for reading! The journey becomes 1000x better when somebody else walks through it too!
 </details>
 
+#### [Code Repo](https://github.com/MaahirG/SmartCar)
+
+<br>
+
 ## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
 #### Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
 
@@ -59,6 +61,8 @@ Thank you for reading! The journey becomes 1000x better when somebody else walks
 - [x] Preparing for ML deployment
 - [x] Weekly presentations and occasional reports
 
+<br>
+
 ## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 <p float="left">
@@ -67,7 +71,6 @@ Thank you for reading! The journey becomes 1000x better when somebody else walks
 </p>
 
 #### Behind the scenes
-- [x] C++
 - [x] Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
 - [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
 - [x] SWE Fundamentals - big codebase - CI
