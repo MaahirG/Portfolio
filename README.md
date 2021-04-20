@@ -73,6 +73,8 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
   <img src='./AutoWatoBolt.png' width='45%'>
 </p>
 
+#### [Repository (Censored)](https://github.com/MaahirG/EnvModelingResearchPaper)
+
 #### Behind the scenes
 - [x] Co-authored research paper - candidate for iROS and RA-L IEEE Robotics conferences.
 - [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
@@ -83,8 +85,6 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Mock perception data publisher (Carla Simulation)
 - [x] Simulation(rviz) & more! :)
 - [x] Unfortunately private Github repo
-
-#### [Code Repo (Censored)](https://github.com/MaahirG/EnvModelingResearchPaper)
 
 #### Algorithm Pseudocode
 <p float="left">
