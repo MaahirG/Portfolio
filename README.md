@@ -84,7 +84,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Simulation(rviz) & more! :)
 - [x] Unfortunately private Github repo
 
-#### [Code Repo](https://github.com/MaahirG/EnvModelingResearchPaper)
+#### [Code Repo (Censored)](https://github.com/MaahirG/EnvModelingResearchPaper)
 
 #### Algorithm Pseudocode
 <p float="left">
