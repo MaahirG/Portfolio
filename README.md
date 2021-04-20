@@ -68,11 +68,17 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 ## Project 3: High Lvl Software - Path Planning + Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 <p float="left">
-  <img src='./AutonomousPathPlanning.gif' width='54%' height='320'>
-  <img src='./AutoWatoBolt.PNG' width='45%' height='320'>
+  <img src='./AutonomousPathPlanning.gif' width='50%'>
+  <img src='./AutoWatoBolt.png' width='45%'>
+</p>
+
+<p float="left">
+  <img src='./IntersectionSignAlgorithm.png' width='45%'>
+  <img src='./FindIntersectionAlgorithm.png' width='45%'>
 </p>
 
 <img src='./IntersectionSignAlgorithm.png'>
+<img src='./FindIntersectionAlgorithm.png'>
 
 
 #### Behind the scenes
