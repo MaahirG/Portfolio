@@ -73,11 +73,6 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
   <img src='./AutoWatoBolt.png' width='45%'>
 </p>
 
-<p float="left">
-  <img src='./IntersectionSignAlgorithm.png' width='35%' height='20%'>
-  <img src='./FindIntersectionAlgorithm.png' width='35%' height='20%'>
-</p>
-
 #### Behind the scenes
 - [x] Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
 - [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
@@ -88,3 +83,9 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Mock perception data publisher (Carla Simulation)
 - [x] Simulation(rviz) & more! :)
 - [x] Unfortunately private Github repo
+
+#### Algorithm Pseudocode
+<p float="left">
+  <img src='./IntersectionSignAlgorithm.png' width='35%' height='20%'>
+  <img src='./FindIntersectionAlgorithm.png' width='35%' height='20%'>
+</p>
