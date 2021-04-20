@@ -84,7 +84,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Environment modeling module (main focus of demo) 
 - [x] Mock perception data publisher (Carla Simulation)
 - [x] Simulation(rviz) & more! :)
-- [x] Unfortunately private Github repo
+- [x] Unfortunately entire AV system is a private repo
 
 #### Algorithm Pseudocode
 <p float="left">
