@@ -74,7 +74,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 </p>
 
 #### Behind the scenes
-- [x] Co-authored a research paper based on this environment model idea. Candidate in iROS and RAL conferences.
+- [x] Co-authored research paper - candidate for iROS and RA-L IEEE Robotics conferences.
 - [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
 - [x] SWE Fundamentals - big codebase - CI
 - [x] Entire AV software stack chugging away (ROS + Docker)
@@ -83,6 +83,8 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Mock perception data publisher (Carla Simulation)
 - [x] Simulation(rviz) & more! :)
 - [x] Unfortunately private Github repo
+
+#### [Code Repo](https://github.com/MaahirG/EnvModelingResearchPaper)
 
 #### Algorithm Pseudocode
 <p float="left">
