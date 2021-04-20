@@ -86,6 +86,6 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 
 #### Algorithm Pseudocode
 <p float="left">
-  <img src='./IntersectionSignAlgorithm.png' width='35%' height='20%'>
-  <img src='./FindIntersectionAlgorithm.png' width='35%' height='20%'>
+  <img src='./IntersectionSignAlgorithm.png' width='45%'>
+  <img src='./FindIntersectionAlgorithm.png' width='45%'>
 </p>
