@@ -46,7 +46,7 @@ Hands on with the entire ML lifecycle: from research, problem identification, st
 Censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry (private code repo):
 
 <p float="left">
-  <img src='./MLBackend.png' width=85%>
+  <img src='./MLAppBackend.png' width=85%>
 </p>
 
 #### Behind the scenes
