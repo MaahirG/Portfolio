@@ -75,7 +75,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
   <img src='./media/AutoWatoBolt.png' width='45%'>
 </p>
 
-#### [Repository (Censored)](https://github.com/MaahirG/EnvModelingResearchPaper)
+#### [Research Paper + Code Repo](https://github.com/MaahirG/EnvModelingResearchPaper)
 
 #### Behind the scenes
 - [x] Co-authored research paper - candidate for iROS and RA-L IEEE Robotics conferences.
