@@ -3,7 +3,7 @@
 
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Demo showing various software modules coming together for autonomous driving.
-<img src='./AutonomousMiniCar.gif'>
+<img src='./media/AutonomousMiniCar.gif'>
 
 #### [YouTube Explanation](https://www.youtube.com/watch?v=srxMzdOEGkM)
 
@@ -48,7 +48,7 @@ Hands on with the entire ML lifecycle: from research, problem identification, st
 Censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry (private code repo):
 
 <p float="left">
-  <img src='./MLAppBackend.png' width=85%>
+  <img src='./media/MLAppBackend.png' width=85%>
 </p>
 
 #### Behind the scenes
@@ -71,8 +71,8 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 
 <p float="left">
-  <img src='./AutonomousPathPlanning.gif' width='50%'>
-  <img src='./AutoWatoBolt.png' width='45%'>
+  <img src='./media/AutonomousPathPlanning.gif' width='50%'>
+  <img src='./media/AutoWatoBolt.png' width='45%'>
 </p>
 
 #### [Repository (Censored)](https://github.com/MaahirG/EnvModelingResearchPaper)
@@ -90,6 +90,6 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 
 #### Algorithm Pseudocode
 <p float="left">
-  <img src='./IntersectionSignAlgorithm.png' width='35%'>
-  <img src='./FindIntersectionAlgorithm.png' width='35%'>
+  <img src='./media/IntersectionSignAlgorithm.png' width='35%'>
+  <img src='./media/FindIntersectionAlgorithm.png' width='35%'>
 </p>
