@@ -78,7 +78,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 #### [Research Paper + Code Repo](https://github.com/MaahirG/EnvModelingResearchPaper)
 
 #### Behind the scenes
-- [x] Co-authored research paper - candidate for iROS and RA-L IEEE Robotics conferences.
+- [x] Co-authored research paper - candidate for ICRA, iROS and RA-L IEEE Robotics conferences and societies.
 - [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
 - [x] SWE Fundamentals - big codebase - CI
 - [x] Entire AV software stack chugging away (ROS + Docker)
