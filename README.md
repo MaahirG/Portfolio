@@ -3,7 +3,7 @@
 
 ## Project 1: Software stack from scratch for my autonomous mini car
 ### Demo showing various software modules coming together for autonomous driving.
-<img src='./media/AutonomousMiniCarDemo.gif'>
+<img src='./media/MiniCarGif.gif'>
 
 #### [YouTube Explanation](https://www.youtube.com/watch?v=srxMzdOEGkM)
 
