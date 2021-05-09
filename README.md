@@ -79,7 +79,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 
 #### Behind the scenes
 - [x] Co-authored research paper - candidate for ICRA, iROS and RA-L IEEE Robotics conferences and societies.
-- [x] Algorithm: Dijkstra search + iterative max depth BFS + Embed the meaning of perceived signs in RoutingGraph
+- [x] Algorithm: Dijkstra search + iterative max depth DFS + Embed the meaning of perceived signs in RoutingGraph
 - [x] SWE Fundamentals - big codebase - CI
 - [x] Entire AV software stack chugging away (ROS + Docker)
 - [x] Local planning module (pink line)
