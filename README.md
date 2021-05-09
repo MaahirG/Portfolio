@@ -5,7 +5,7 @@
 ### Demo showing various software modules coming together for autonomous driving.
 <img src='./media/AutonomousMiniCar.gif'>
 
-#### [YouTube Explanation](https://www.youtube.com/watch?v=srxMzdOEGkM)
+#### [YouTube Explanation](https://www.youtube.com/watch?v=LI7HEokgCKs)
 
 #### Behind the scenes
 
