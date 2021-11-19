@@ -67,7 +67,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 
 <br>
 
-## Project 3: Software + Publication - Path Planning & Environment Modeling for Chevy Bolt EV
+## Project 3: Software + Publication - Path Planning & Environment Modeling for Chevy Bolt EV - WATonomous Design Team
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 
 <p float="left">
@@ -92,6 +92,12 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 <p float="left">
   <img src='./media/IntersectionSignAlgorithm.png' width='35%'>
   <img src='./media/FindIntersectionAlgorithm.png' width='35%'>
+</p>
+
+## Project 4: Vehicle Tracking System Diagram - Sensor Fusion on EcoCar Design Team
+
+<p float="left">
+  <img src='./media/EcoCarUWAFTDesign.png'>
 </p>
 
 # Resume
