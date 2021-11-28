@@ -101,7 +101,4 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
   <img src='./media/EcoCarUWAFTDesign.png'>
 </p>
 
-# Resume
-<p float="left">
-  <img src='./MaahirGuptaResume.pdf' width='100%'>
-</p>
+# [Resume](./MaahirGuptaResume.pdf)
