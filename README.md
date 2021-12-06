@@ -43,7 +43,7 @@ Thank you for reading! The journey becomes 1000x better when somebody else walks
 
 <br>
 
-## Project 2: Machine Learning Application, Backend Workflow (ML+SWE INTERN)
+## Project 2: Machine Learning Application, Backend Workflow (ML+SWE Intern)
 Hands on with the entire ML lifecycle: from research, problem identification, stakeholder meetings, model implementation, train/test/eval/tune etc, to building an entire system backend interfaceable by a frontend webapp, while also starting with AI deployment and MLOps.
 
 Censored codebase design for a deep learning based auto-annotating scientist aid within the realm of Mass Spectrometry (private code repo):
