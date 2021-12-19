@@ -102,7 +102,9 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 </p>
 
 ## Project 5: Backend Microservice Design from Internship
-#### Owned, architected and built a centralized data access microservice based on 4 pillars: concurrency, expandability, modularity, usability.
+#### Completed as part of an internship.
+#### Focused on 4 core pillars: concurrency, expandability, modularity, usability. 
+#### Owned, architected and built a centralized data access microservice.
 <p float="left">
   <img src='./media/SysDesign.png'>
 </p>
