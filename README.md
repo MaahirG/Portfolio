@@ -101,8 +101,8 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
   <img src='./media/EcoCarUWAFTDesign.png'>
 </p>
 
-## Project 3: Backend Microservice Design from Internship
-### Owned, architected and built a centralized data access microservice based on 4 pillars: concurrency, expandability, modularity, usability.
+## Project 5: Backend Microservice Design from Internship
+#### Owned, architected and built a centralized data access microservice based on 4 pillars: concurrency, expandability, modularity, usability.
 <p float="left">
   <img src='./media/SysDesign.png'>
 </p>
