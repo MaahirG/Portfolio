@@ -88,6 +88,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 - [x] Mock perception data publisher (Carla Simulation)
 - [x] Simulation(rviz) & more! :)
 - [x] Unfortunately entire AV system is a private repo
+<br>
 
 #### Algorithm Pseudocode
 <p float="left">
@@ -100,6 +101,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 <p float="left">
   <img src='./media/EcoCarUWAFTDesign.png'>
 </p>
+<br>
 
 ## Project 5: Backend Microservice Design during Internship
 * Focused on 4 core pillars: *concurrency, expandability, modularity, usability.*
@@ -107,5 +109,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 <p float="left">
   <img src='./media/SysDesign.png'>
 </p>
+<br>
+
 
 # [Resume](./MaahirGuptaResume.pdf)
