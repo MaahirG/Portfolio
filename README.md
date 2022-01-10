@@ -68,7 +68,7 @@ Censored codebase design for a deep learning based auto-annotating scientist aid
 
 <br>
 
-## Project 3: Software + Publication - Path Planning & Environment Modeling for Chevy Bolt EV - WATonomous Design Team
+## Project 3: Software + Publication - Path Planning & Environment Modeling for Chevy Bolt EV
 ### Showcasing one usecase of my code contribution towards real-road autonomous driving.
 
 <p float="left">
